@@ -35,7 +35,7 @@ else:
 # Input for API Key
 api_key = st.sidebar.text_input(label="GRoq API Key", type="password")
 if not api_key:
-    st.info("Please add the GRoq API key")
+    st.info("Please add the GRoq API key. If you do not have one, then go get one! I'm waiting!")
     st.stop()
 
 # LLM Setup
