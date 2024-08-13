@@ -1,3 +1,5 @@
+---
+
 ## LangChain: Chat with SQL Database
 
 ### Project Overview
@@ -38,3 +40,9 @@ To run the application:
 4. Begin interacting with your SQL database using natural language queries.
 
 This project is ideal for users looking to simplify their database management by enabling conversational interactions with SQL databases.
+
+### Streamlit App
+
+Access the Streamlit app here: [https://text2sql-application.streamlit.app/](https://text2sql-application.streamlit.app/)
+
+--- 
